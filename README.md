@@ -8,6 +8,9 @@
 <a href="https://medium.com/@milonimittal">
   <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
+  <a href="mailto:miloni.mittal@gmail.com">
+  <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg"/>
+</a>
 </p>
 
 
