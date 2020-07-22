@@ -3,16 +3,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miloni-mittal-225779149/">
-    <img alt="LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://medium.com/@milonimittal">
-    <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+    <img alt="Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
   </a>
   <a href="mailto:miloni.mittal@gmail.com">
-    <img alt="Mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg"/>
+    <img alt="Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg"/>
   </a>
   <a href="https://github.com/milonimittal">
-    <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg"/>
+    <img alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg"/>
   </a>
 </p>
 <p align="center">
