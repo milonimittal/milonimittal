@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](images/cover.png)
+<img src="images/cover.png" width="800" />
 <!--
 **milonimittal/milonimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
