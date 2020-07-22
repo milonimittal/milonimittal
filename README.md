@@ -2,15 +2,15 @@
 ![](https://github.com/milonimittal/milonimittal/blob/master/images/cover.png)
 
 <p align="center">
-  <!--<a href="https://www.linkedin.com/in/miloni-mittal-225779149/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;-->
-  <a href="https://www.linkedin.com/in/miloni-mittal-225779149/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  
-  <a href="mailto:miloni.mittal@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-
- <!-- <a href="https://instagram.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;-->
+  <a href="https://www.linkedin.com/in/apurv-shah/">
+  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/apurvshah123/">
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://medium.com/@apurvshah2604">
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
 </p>
 
 
