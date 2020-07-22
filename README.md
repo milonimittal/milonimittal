@@ -4,6 +4,9 @@
 <p align="center">
   <!--<a href="https://www.linkedin.com/in/miloni-mittal-225779149/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;-->
   <a href="https://www.linkedin.com/in/miloni-mittal-225779149/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://medium.com/@Oautodidactic">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
   <a href="mailto:miloni.mittal@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <!-- <a href="https://instagram.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
