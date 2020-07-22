@@ -9,11 +9,16 @@
     <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
   </a>
   <a href="mailto:miloni.mittal@gmail.com">
-    <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg"/>
+    <img alt="Mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg"/>
+  </a>
+  <a href="https://github.com/milonimittal">
+    <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg"/>
   </a>
 </p>
 
-
+<p>
+  I am a Final year student at BITS Pilani. I love exploring 
+</p>
 
 <!--
 **milonimittal/milonimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
