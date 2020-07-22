@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p>
-  I am a Final year student at BITS Pilani. I love exploring 
-</p>
-
 <!--
 **milonimittal/milonimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
