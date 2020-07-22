@@ -3,14 +3,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miloni-mittal-225779149/">
-  <img alt="LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@milonimittal">
-  <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-</a>
+    <img alt="LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://medium.com/@milonimittal">
+    <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+  </a>
   <a href="mailto:miloni.mittal@gmail.com">
-  <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg"/>
-</a>
+    <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg"/>
+  </a>
 </p>
 
 
