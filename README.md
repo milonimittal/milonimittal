@@ -2,14 +2,11 @@
 ![](https://github.com/milonimittal/milonimittal/blob/master/images/cover.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/apurv-shah/">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/miloni-mittal-225779149/">
+  <img alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/apurvshah123/">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://medium.com/@apurvshah2604">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+<a href="https://medium.com/@milonimittal">
+  <img alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 </p>
 
