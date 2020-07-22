@@ -15,7 +15,12 @@
     <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg"/>
   </a>
 </p>
-
+<p align="center">
+I am a final year undergraduate at BITS Pilani. I love exploring the different fields in Computer Science.
+I am currently working on Natural Language Processing and Image Processing through projects.
+You can go ahead to find my projects.
+You can get in touch with me at miloni.mittal@gmail.com
+</p>
 <!--
 **milonimittal/milonimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
