@@ -19,7 +19,7 @@
 I am a final year undergraduate at BITS Pilani. I love exploring the different fields in Computer Science.
 I am currently working on Natural Language Processing and Image Processing through projects.
 You can go ahead to find my projects.
-You can get in touch with me at miloni.mittal@gmail.com
+You can get in touch with me at <a href="mailto:miloni.mittal@gmail.com"> miloni.mittal@gmail.com </a>miloni.mittal@gmail.com
 </p>
 <!--
 **milonimittal/milonimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
