@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![](https://github.com/milonimittal/milonimittal/blob/master/images/cover.png)
 <!--
 **milonimittal/milonimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
