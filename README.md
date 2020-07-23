@@ -22,9 +22,9 @@ You can go ahead to find my projects.
 You can get in touch with me at <a href="mailto:miloni.mittal@gmail.com"> miloni.mittal@gmail.com </a>
 </p>
 <p align="center">
-I majorly use: <img alt="Python" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg"/>
-  <img alt="Java" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg"/>
-  <img alt="C++" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg"/> 
+I majorly use: <img alt="Python" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg"/>
+  <img alt="Java" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg"/>
+  <img alt="C++" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg"/> 
 </p>
 <!--
 **milonimittal/milonimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
