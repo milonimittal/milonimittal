@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miloni-mittal-225779149/">
-    <img alt="LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style=margin:20px 20px"/>
+    <img alt="LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
   <a href="https://medium.com/@milonimittal">
     <img alt="Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
@@ -22,7 +22,9 @@ You can go ahead to find my projects.
 You can get in touch with me at <a href="mailto:miloni.mittal@gmail.com"> miloni.mittal@gmail.com </a>
 </p>
 <p align="center">
-I majorly use: <img alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg"/><img alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg"/><img alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg"/> 
+I majorly use: <img alt="Python" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg"/>
+  <img alt="Java" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg"/>
+  <img alt="C++" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg"/> 
 </p>
 <!--
 **milonimittal/milonimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
