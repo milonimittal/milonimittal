@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miloni-mittal-225779149/">
-    <img alt="LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style=margin:20px 20px"/>
   </a>
   <a href="https://medium.com/@milonimittal">
     <img alt="Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
