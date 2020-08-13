@@ -21,6 +21,8 @@ I am currently working on Natural Language Processing and Image Processing throu
 You can go ahead to find my projects.
 You can get in touch with me at <a href="mailto:miloni.mittal@gmail.com"> miloni.mittal@gmail.com </a>
 </p>
+<p align="center">I am currently interning at <b>BNY Mellon</b> in the Data Insights team. Previously, I have interned at <b>Walmart Global Tech India</b> (Summer 2020), <b>IIMA</b> (Winter 2019) and <b>CEERI Chennai</b> (Summer 2019).
+</p>
 <p align="center">
 I majorly use: <img alt="Python" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg"/>
   <img alt="Java" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg"/>
