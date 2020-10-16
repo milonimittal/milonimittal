@@ -5,15 +5,17 @@
   <a href="https://www.linkedin.com/in/miloni-mittal-225779149/">
     <img alt="LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
-  <a href="https://medium.com/@milonimittal">
-    <img alt="Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-  </a>
   <a href="mailto:miloni.mittal@gmail.com">
     <img alt="Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg"/>
   </a>
   <a href="https://github.com/milonimittal">
     <img alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg"/>
   </a>
+  <a href="https://medium.com/@milonimittal">
+    <img alt="Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+  </a>
+  
+  
 </p>
 <p align="center">
 I am a final year undergraduate at BITS Pilani. I enjoy exploring the different fields in Computer Science.
